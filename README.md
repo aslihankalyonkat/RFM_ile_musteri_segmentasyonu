@@ -1,0 +1,1 @@
+# RFM_ile_musteri_segmentasyonu
